@@ -1,7 +1,10 @@
 # E-Commerce-Intelligence-Dashboard-PBI-
+An interactive Power BI dashboard for Pakistan’s e-commerce sales. It tracks performance across category, brand, city, and year, and includes time-intelligence DAX, market share analysis, and drill-downs to support fast, data-driven decisions.
 
-I Build Powerbi Dashboard for Pakistan E-Commerce product to view real time performance of the company and make strategies
-Made useful Dax measures, value attributes for easy filtering, custom calendar, slicer, botton, LY sales, MTD saled, market share and more.
+Highlights: custom Calendar table, MTD/YTD/LY measures, market share by brand, bookmarks/slicers, conditional formatting, and clean KPI design.
+
+<p align="center"> <img alt="Power BI Overview Page" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" width="90%"> </p>
+
 PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screenshot 2025-09-04 122153" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" />
 
 <img width="2340" height="1290" alt="Screenshot 2025-09-04 122349" src="https://github.com/user-attachments/assets/4f353c5f-0e46-4ebb-a9b4-34382ee9e813" />
