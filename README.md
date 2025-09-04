@@ -3,4 +3,25 @@ PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screensh
 
 <img width="2340" height="1290" alt="Screenshot 2025-09-04 122349" src="https://github.com/user-attachments/assets/4f353c5f-0e46-4ebb-a9b4-34382ee9e813" />
 
-<img width="3835" height="2159" alt="Screenshot 2025-09-04 115126" src="https://github.com/user-attachments/assets/2e7650fb-dfe6-434a-af97-979fbf7b3be8" />
+Filtering for 
+<img width="2372" height="1277" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
+
+Filtering for 
+<img width="2359" height="1301" alt="Screenshot 2025-09-04 115245" src="https://github.com/user-attachments/assets/136fbc55-193f-4f25-b54a-26f784619199" />
+
+Filtering for 
+<img width="2355" height="1317" alt="Screenshot 2025-09-04 115316" src="https://github.com/user-attachments/assets/eedcb271-b0d1-4ed8-af88-843ef09274fe" />
+
+Filtering for 
+<img width="2145" height="1302" alt="Screenshot 2025-09-04 115448" src="https://github.com/user-attachments/assets/e18733b7-cc4b-4957-b692-f0a641238fb9" />
+
+<img width="1305" height="1082" alt="Screenshot 2025-09-04 115505" src="https://github.com/user-attachments/assets/9c289588-332d-41c2-ba3b-f416a10508af" />
+
+
+<img width="2145" height="1302" alt="Screenshot 2025-09-04 115448" src="https://github.com/user-attachments/assets/dfa2a144-0eea-4d9b-9ea2-46eb38cd5cbf" />
+
+<img width="2313" height="1299" alt="Screenshot 2025-09-04 121040" src="https://github.com/user-attachments/assets/e1665160-2a9c-412e-b1e9-a0a1bc4fc394" />
+
+<img width="973" height="1133" alt="Screenshot 2025-09-04 121117" src="https://github.com/user-attachments/assets/e7b0d9cb-2cce-431a-9c41-2fd2ef135f6d" />
+
+<img width="1825" height="813" alt="Screenshot 2025-09-04 121152" src="https://github.com/user-attachments/assets/5b1d2b61-2954-4b88-a601-49385d7d391b" />
