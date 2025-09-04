@@ -1,22 +1,25 @@
 # E-Commerce-Intelligence-Dashboard-PBI-
+
+I Build Powerbi Dashboard for Pakistan E-Commerce product to view real time performance of the company and make strategies
+Made useful Dax measures, value attributes for easy filtering, custom calendar, slicer, botton, LY sales, MTD saled, market share and more.
 PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screenshot 2025-09-04 122153" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" />
 
 <img width="2340" height="1290" alt="Screenshot 2025-09-04 122349" src="https://github.com/user-attachments/assets/4f353c5f-0e46-4ebb-a9b4-34382ee9e813" />
 
-Filtering Gross Profit By Category
+
+Filtering Gross Profit By Category - where Laptop is a clear winner 4,188 million
 <img width="2372" height="1277" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
 
-Filtering Gross Profit by Brands
+Filtering Gross Profit by Brands - where Microsift is the winner with 1,554 million 
 <img width="2359" height="1301" alt="Screenshot 2025-09-04 115245" src="https://github.com/user-attachments/assets/136fbc55-193f-4f25-b54a-26f784619199" />
 
-Filtering Gross Profit by Cities
+Filtering Gross Profit by Cities - where Karachi is the winner with 1,271 million while rest value are also close
 <img width="2307" height="1288" alt="Screenshot 2025-09-04 115301" src="https://github.com/user-attachments/assets/1aea6207-d46d-420f-a9f0-c51806fae018" />
 
-Filtering Gross Profit by Year
+Filtering Gross Profit by Year - where year 2020 has the highest value of 1,210 million
 <img width="2355" height="1317" alt="Screenshot 2025-09-04 115316" src="https://github.com/user-attachments/assets/eedcb271-b0d1-4ed8-af88-843ef09274fe" />
 
-Filtering for 
-![Uploading Screenshot 2025-09-04 115301.png…]() 
+
 
 <img width="1305" height="1082" alt="Screenshot 2025-09-04 115505" src="https://github.com/user-attachments/assets/9c289588-332d-41c2-ba3b-f416a10508af" />
 
