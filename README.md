@@ -3,8 +3,9 @@ An interactive **Power BI Dashboard**  for Pakistan’s e-commerce sales. It tra
 
 Highlights: custom Calendar table, MTD/YTD/LY measures, market share by brand, bookmarks/slicers, conditional formatting, clean KPI design and more.
 
-PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screenshot 2025-09-04 122153" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" />
+<img width="3827" height="2048" alt="Screenshot 2025-09-04 122153" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" />
 
+Filtering Total unit sold of Laptops for Karachi from 2015 - 2020
 <img width="2340" height="1290" alt="Screenshot 2025-09-04 122349" src="https://github.com/user-attachments/assets/4f353c5f-0e46-4ebb-a9b4-34382ee9e813" />
 
 
@@ -20,50 +21,21 @@ Filtering Gross Profit by Cities - where Karachi is the winner with 1,271 millio
 Filtering Gross Profit by Year - where year 2020 has the highest value of 1,210 million
 <img width="2355" height="1317" alt="Screenshot 2025-09-04 115316" src="https://github.com/user-attachments/assets/eedcb271-b0d1-4ed8-af88-843ef09274fe" />
 
-# 📊 E-Commerce Intelligence Dashboard — Power BI
-
-An interactive **Power BI Dashboard** built for Pakistan’s e-commerce sector to track **sales, profit, and market share** across categories, brands, cities, and years.  
-
-<p align="center">
-  <img alt="Power BI Overview Page" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" width="90%">
-</p>
-
----
-
-## 🚀 Key Features
-- Real-time sales performance tracking  
-- Custom DAX measures: **LY Sales, MTD, YTD, Market Share, Variance**  
-- Interactive slicers and buttons (Category, Brand, City, Year)  
-- Conditional formatting and drill-down analysis  
-- Custom calendar table for time intelligence  
-
----
-
-## 🔎 Business Insights
-- **Category Leader:** Laptops with ~₨ 12.27B in sales  
-- **Top Brand:** Microsoft with ~₨ 4.4B sales  
-- **Top City:** Karachi with ~₨ 1.27B Gross Profit  
-- **Best Year:** 2020 with ~₨ 1.21B Gross Profit  
-
----
 
 ## 📷 Dashboard Previews
-**Brand Performance**
 <p align="center">
   <img alt="Brand totals" src="https://github.com/user-attachments/assets/e1665160-2a9c-412e-b1e9-a0a1bc4fc394" width="90%">
 </p>
 
-**Market Share by Brand**
-<p align="center">
-  <img alt="Market share table" src="https://github.com/user-attachments/assets/4f353c5f-0e46-4ebb-a9b4-34382ee9e813" width="90%">
-</p>
+<img width="1305" height="1082" alt="Screenshot 2025-09-04 115505" src="https://github.com/user-attachments/assets/9c289588-332d-41c2-ba3b-f416a10508af" />
 
-**Category, City & Year Filters**
-<p align="center">
-  <img alt="Category and City view" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" width="90%">
-</p>
+<img width="2145" height="1302" alt="Screenshot 2025-09-04 115448" src="https://github.com/user-attachments/assets/dfa2a144-0eea-4d9b-9ea2-46eb38cd5cbf" />
 
----
+<img width="2313" height="1299" alt="Screenshot 2025-09-04 121040" src="https://github.com/user-attachments/assets/e1665160-2a9c-412e-b1e9-a0a1bc4fc394" />
+
+<img width="973" height="1133" alt="Screenshot 2025-09-04 121117" src="https://github.com/user-attachments/assets/e7b0d9cb-2cce-431a-9c41-2fd2ef135f6d" />
+
+<img width="1825" height="813" alt="Screenshot 2025-09-04 121152" src="https://github.com/user-attachments/assets/5b1d2b61-2954-4b88-a601-49385d7d391b" />
 
 ## 🛠️ Tech Stack
 - **Power BI** (DAX, Power Query, Visualization)  
@@ -77,14 +49,3 @@ If you’d like the `.pbix` file or want a custom dashboard:
 - **Email:** _your email here_  
 - **LinkedIn:** _your LinkedIn here_  
 
-
-<img width="1305" height="1082" alt="Screenshot 2025-09-04 115505" src="https://github.com/user-attachments/assets/9c289588-332d-41c2-ba3b-f416a10508af" />
-
-
-<img width="2145" height="1302" alt="Screenshot 2025-09-04 115448" src="https://github.com/user-attachments/assets/dfa2a144-0eea-4d9b-9ea2-46eb38cd5cbf" />
-
-<img width="2313" height="1299" alt="Screenshot 2025-09-04 121040" src="https://github.com/user-attachments/assets/e1665160-2a9c-412e-b1e9-a0a1bc4fc394" />
-
-<img width="973" height="1133" alt="Screenshot 2025-09-04 121117" src="https://github.com/user-attachments/assets/e7b0d9cb-2cce-431a-9c41-2fd2ef135f6d" />
-
-<img width="1825" height="813" alt="Screenshot 2025-09-04 121152" src="https://github.com/user-attachments/assets/5b1d2b61-2954-4b88-a601-49385d7d391b" />
