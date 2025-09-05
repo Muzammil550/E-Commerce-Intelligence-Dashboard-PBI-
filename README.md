@@ -1,7 +1,7 @@
-# E-Commerce-Intelligence-Dashboard-PBI-
-An interactive Power BI dashboard for Pakistan’s e-commerce sales. It tracks performance across category, brand, city, and year, and includes time-intelligence DAX, market share analysis, and drill-downs to support fast, data-driven decisions.
+# 📊 E-Commerce Intelligence Dashboard — Power BI
+An interactive **Power BI Dashboard**  for Pakistan’s e-commerce sales. It tracks  **sales, cost, profit, and market share** across category, brand, city, and year, and includes time-intelligence DAX, market share analysis, and drill-downs to support fast, data-driven decisions.
 
-Highlights: custom Calendar table, MTD/YTD/LY measures, market share by brand, bookmarks/slicers, conditional formatting, and clean KPI design.
+Highlights: custom Calendar table, MTD/YTD/LY measures, market share by brand, bookmarks/slicers, conditional formatting, clean KPI design and more.
 
 PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screenshot 2025-09-04 122153" src="https://github.com/user-attachments/assets/4309226f-4b8d-406b-84ee-ed13a18309fe" />
 
@@ -9,7 +9,7 @@ PowerBi E-Commerce Sales  Dashboard<img width="3827" height="2048" alt="Screensh
 
 
 Filtering Gross Profit By Category - where Laptop is a clear winner 4,188 million
-<img width="2372" height="1277" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
+<img width="90%" height="1277" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
 
 Filtering Gross Profit by Brands - where Microsift is the winner with 1,554 million 
 <img width="2359" height="1301" alt="Screenshot 2025-09-04 115245" src="https://github.com/user-attachments/assets/136fbc55-193f-4f25-b54a-26f784619199" />
