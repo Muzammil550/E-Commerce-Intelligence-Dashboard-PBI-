@@ -10,7 +10,7 @@ Filtering Total unit sold of Laptops for Karachi from 2015 - 2020
 
 
 Filtering Gross Profit By Category - where Laptop is a clear winner 4,188 million
-<img width="90%" height="1277" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
+<img width="90%" alt="Screenshot 2025-09-04 115232" src="https://github.com/user-attachments/assets/8a59aa8b-88ef-4f60-8c60-f93bb1757bd6" />
 
 Filtering Gross Profit by Brands - where Microsift is the winner with 1,554 million 
 <img width="2359" height="1301" alt="Screenshot 2025-09-04 115245" src="https://github.com/user-attachments/assets/136fbc55-193f-4f25-b54a-26f784619199" />
