@@ -22,7 +22,6 @@ Filtering Gross Profit by Year - where year 2020 has the highest value of 1,210 
 <img width="2355" height="1317" alt="Screenshot 2025-09-04 115316" src="https://github.com/user-attachments/assets/eedcb271-b0d1-4ed8-af88-843ef09274fe" />
 
 
-## 📷 Dashboard Previews
 <p align="center">
   <img alt="Brand totals" src="https://github.com/user-attachments/assets/e1665160-2a9c-412e-b1e9-a0a1bc4fc394" width="90%">
 </p>
@@ -46,6 +45,5 @@ Filtering Gross Profit by Year - where year 2020 has the highest value of 1,210 
 
 ## 📬 Contact
 If you’d like the `.pbix` file or want a custom dashboard:  
-- **Email:** _your email here_  
-- **LinkedIn:** _your LinkedIn here_  
+- **Email:** Muzammil Kamran  
 
